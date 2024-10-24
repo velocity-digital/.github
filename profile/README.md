@@ -25,4 +25,5 @@ graph TD;
 2. Always follow `gitflow` branching methedologies. E.g. `feature/*` or `bugfix/*` (where * is your branch name - it will be auto-generated for you by ClickUp). For more information on `gitflow` [Read More](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 3. Pushing code directly to a server (Cowboy Coding) is **NOT ALLOWED** - not even in a crisis, as this could affect automations
 4. Each repository will have specific rules, CI/CD pipelines etc. Please follow those.
-5. When in doubt, ask.
+5. Please create PRs for your work, into the `develop` branch.
+6. When in doubt, ask.
