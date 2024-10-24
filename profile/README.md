@@ -8,6 +8,7 @@ Welcome to the Velocity Engineering repositories.
 
   - `develop`: Base for all development work.
   - `main`: Reflects the latest release in production.
+  - `staging`: Used for deploying changes to production (if available). Please check the respective repositories for branching strategies that might differ.
   - `deploy/production`: Used for deploying to production and handling hotfixes (this branch will always match what is currently live in production environments).
 
 ``` mermaid
